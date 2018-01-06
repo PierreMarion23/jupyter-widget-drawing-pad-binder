@@ -1,3 +1,2 @@
-jupyter contrib nbextension install --user
 jupyter nbextension enable --py widgetsnbextension
-jupyter nbextension enable jupyter_widget_d3_slider
+jupyter nbextension enable jupyter_drawing_pad
