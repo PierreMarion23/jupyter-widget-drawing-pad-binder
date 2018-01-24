@@ -1,4 +1,4 @@
 ipywidgets==7.0.0
 traitlets==4.3.2
-jupyter_drawing_pad
+jupyter_drawing_pad==0.1.2b0
 matplotlib
